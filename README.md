@@ -62,13 +62,6 @@ src/
 - **date-fns**
 - **xlsx** (Excel parsing)
 
-## 📌 Future Improvements
-
-- Calendar view option
-- Export to PDF or iCal
-- User account & cloud sync
-- Multi-semester separation
-
 ---
 
 © 2025 Test Planner by Roy Davidovich. All rights reserved.
